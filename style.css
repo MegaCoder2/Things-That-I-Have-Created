@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#Apps{
+    width: 85%;
+    height: 700px;
+    background-color: lightblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Divide{
+    height: 5px;
+    width: 70px;
+    margin: auto;
+    background-color: blue
+}
+#AName{
+    width: 85%;
+    height: 700px;
+    background-color: green;
+
+}
+#AName img{
+    margin-top: 35px;
+}
+img { 
+    transition: transform .2s; 
+} 
+
+img:hover {
+    transform: scale(0.9);
+}
