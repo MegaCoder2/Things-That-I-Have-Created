@@ -18,7 +18,8 @@ body{
     width: 85%;
     height: 700px;
     background-color: green;
-
+    align-self: center;
+    margin: auto;
 }
 #AName img{
     margin-top: 35px;
